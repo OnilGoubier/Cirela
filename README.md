@@ -1,7 +1,7 @@
 Cirela
 ======
 
-This repository aimes at sharing codes of open source applications to monitor environment, especially natural disasters.
+This repository contains code for open source applications to monitor environment, especially natural disasters.
 
 It contains 2 packages:
 
@@ -16,7 +16,7 @@ To install the packages, you need :
     pharo.org/
 
 
-More about CIRELA Association
+A word about CIRELA:
 
-CIRELA (Communication and Information technology for REsiLience to disAsters) intend to provide open source solutions for wireless sensor network monitoring and warning systems for natural and environmental disasters.
+CIRELA (Communication and Information technology for REsiLience to disAsters) is a NGO (Non-profit Non-Governmental Organisation) dedicated to open source solutions for wireless sensor network monitoring and warning systems for natural and environmental disasters.
 
