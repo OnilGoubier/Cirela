@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"createNodeFrom:" : "Onil 10/22/2014 16:21",
+		"createNodeWithName:point:range:" : "Onil 10/22/2014 16:40" },
+	"instance" : {
+		"initialize" : "Onil 10/21/2014 17:48",
+		"inputLinks" : "Onil 10/21/2014 16:35",
+		"inputLinks:" : "Onil 10/21/2014 16:35",
+		"name" : "Onil 10/21/2014 16:31",
+		"name:" : "Onil 10/21/2014 16:32",
+		"outputLinks" : "Onil 10/21/2014 16:34",
+		"outputLinks:" : "Onil 10/21/2014 16:33",
+		"point" : "Onil 10/21/2014 17:45",
+		"point:" : "Onil 10/21/2014 17:45",
+		"range" : "Onil 10/21/2014 17:46",
+		"range:" : "Onil 10/21/2014 17:47" } }

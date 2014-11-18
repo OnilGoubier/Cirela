@@ -1,0 +1,15 @@
+{
+	"category" : "Cirela-NetGen-Sim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nodes",
+		"links" ],
+	"name" : "NetworkGeometry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

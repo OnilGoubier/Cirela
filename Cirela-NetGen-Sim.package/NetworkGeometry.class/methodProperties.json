@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"createFromFile:" : "Onil 10/22/2014 16:10",
+		"openFrom:" : "Onil 10/27/2014 16:15" },
+	"instance" : {
+		"animatedSimulation:" : "Onil 11/14/2014 13:11",
+		"animatedSimulationOnMap:" : "Onil 11/18/2014 20:39",
+		"buildLinksFrom:" : "Onil 10/23/2014 15:07",
+		"buildNetFrom:" : "Onil 11/17/2014 13:07",
+		"findNodeWithName:" : "Onil 10/22/2014 18:02",
+		"getNodeRange" : "Onil 10/22/2014 22:54",
+		"initialize" : "Onil 10/21/2014 17:56",
+		"isLatLon:" : "Onil 11/17/2014 13:10",
+		"links" : "Onil 10/21/2014 17:50",
+		"links:" : "Onil 10/21/2014 17:50",
+		"nodes" : "Onil 10/21/2014 17:49",
+		"nodes:" : "Onil 10/21/2014 17:50",
+		"open" : "Onil 10/27/2014 16:13" } }

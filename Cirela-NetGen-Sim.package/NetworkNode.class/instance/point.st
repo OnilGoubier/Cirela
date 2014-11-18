@@ -1,0 +1,3 @@
+accesing
+point
+	^point

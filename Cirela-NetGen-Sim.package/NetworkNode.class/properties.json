@@ -1,0 +1,18 @@
+{
+	"category" : "Cirela-NetGen-Sim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"outputLinks",
+		"inputLinks",
+		"point",
+		"range" ],
+	"name" : "NetworkNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

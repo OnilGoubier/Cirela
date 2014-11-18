@@ -1,0 +1,17 @@
+{
+	"category" : "Cirela-NetGen-Sim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"view",
+		"tempTxt",
+		"messages",
+		"index" ],
+	"name" : "NetworkAnimation",
+	"pools" : [
+		 ],
+	"super" : "RTAnimation",
+	"type" : "normal" }

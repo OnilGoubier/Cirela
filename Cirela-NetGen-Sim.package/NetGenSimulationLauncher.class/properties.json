@@ -1,0 +1,16 @@
+{
+	"category" : "Cirela-NetGen-Sim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"streamIn",
+		"networkGeometry",
+		"timeNodeMessages" ],
+	"name" : "NetGenSimulationLauncher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

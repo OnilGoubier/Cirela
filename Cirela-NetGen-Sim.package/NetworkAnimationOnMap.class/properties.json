@@ -1,0 +1,14 @@
+{
+	"category" : "Cirela-NetGen-Sim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NetworkAnimationOnMap",
+	"pools" : [
+		 ],
+	"super" : "NetworkAnimation",
+	"type" : "normal" }

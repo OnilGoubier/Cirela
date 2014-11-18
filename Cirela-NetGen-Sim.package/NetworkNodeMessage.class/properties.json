@@ -1,0 +1,16 @@
+{
+	"category" : "Cirela-NetGen-Sim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"message",
+		"node",
+		"incomingLink" ],
+	"name" : "NetworkNodeMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

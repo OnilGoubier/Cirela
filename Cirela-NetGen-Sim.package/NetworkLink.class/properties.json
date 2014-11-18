@@ -1,0 +1,15 @@
+{
+	"category" : "Cirela-NetGen-Sim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source",
+		"target" ],
+	"name" : "NetworkLink",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
