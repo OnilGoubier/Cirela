@@ -1,3 +1,3 @@
 private
 translatedRectangle
-	^ (matrix transform: rectangle origin) corner: (matrix transform: rectangle corner)
+	^ (matrix transform: self rectangle origin) corner: (matrix transform: self rectangle corner)

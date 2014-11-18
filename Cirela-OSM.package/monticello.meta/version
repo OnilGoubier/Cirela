@@ -1,1 +1,2 @@
-(name 'Cirela-OSM-Onil.1' message 'About to release' id 'd1cf6f42-6227-4fc8-b12e-98f1563c2def' date '18 November 2014' time '9:39:35.697492 pm' author 'Onil' ancestors () stepChildren ())
+(name 'Cirela-OSM-Onil.2' message 'Added the auto-resize feature.' id 'f5584c5a-f539-480e-9029-f17e738327d4' date '18 November 2014' time '10:10:42.717279 pm' author 'Onil' ancestors ((name 'Cirela-OSM-OnilGoubier.1' message 'About to release
+' id 'b8c83484-31ad-5136-a5ca-95bcec54fa6d' date '18 November 2014' time '9:39:38 pm' author 'OnilGoubier' ancestors () stepChildren ())) stepChildren ())

@@ -6,8 +6,8 @@ example
 
 	| v s e |
 	v := RTView new.
-	s := RTOSM new extent: 500 @ 500.
-	e := s element @ RTDraggable.
+	s := RTOSM new.
+	e := s element.
 	v add: e.
 	v add: (RTBox new size: 40) element @ RTHighlightable @ RTDraggable.
 	v canvas addMenu: 'In' callback: [ RTZoomInMove on: v ].
