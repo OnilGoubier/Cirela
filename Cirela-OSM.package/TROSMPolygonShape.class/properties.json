@@ -1,0 +1,14 @@
+{
+	"category" : "Cirela-OSM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TROSMPolygonShape",
+	"pools" : [
+		 ],
+	"super" : "TRPolygonShape",
+	"type" : "normal" }

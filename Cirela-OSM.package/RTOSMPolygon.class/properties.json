@@ -1,0 +1,14 @@
+{
+	"category" : "Cirela-OSM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "RTOSMPolygon",
+	"pools" : [
+		 ],
+	"super" : "RTPolygon",
+	"type" : "normal" }
