@@ -13,7 +13,7 @@ Installation guide:
 
 To install the packages, you need :
 1. Pharo and Roassal :
-  pharo.org/
+    pharo.org/
 
 
 More about CIRELA Association
