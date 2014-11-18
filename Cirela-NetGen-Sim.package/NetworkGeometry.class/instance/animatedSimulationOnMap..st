@@ -4,7 +4,7 @@ animatedSimulationOnMap: aTimeNodeMessages
 	dic := Dictionary new.
 	view := RTView new.
 	view @ RTDraggableView.
-	map := RTOSM new extent: 1000@750.
+	map := RTOSM new.
 	e := map element.
 	view add: e.
 	circle := RTEllipse new
