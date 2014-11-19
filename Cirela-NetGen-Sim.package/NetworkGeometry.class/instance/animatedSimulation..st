@@ -6,7 +6,7 @@ animatedSimulation: aTimeNodeMessages
 	view := RTView new.
 	view @ RTDraggableView.
 	circle := RTEllipse new
-		size: self getNodeRange;
+		size: self getNodeRange *2;
 		borderColor: (Color blue alpha: 0.3).
 	line := RTLine new color: Color blue.
 	self nodes
