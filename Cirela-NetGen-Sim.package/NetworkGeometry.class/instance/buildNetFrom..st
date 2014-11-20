@@ -3,7 +3,7 @@ buildNetFrom: aStream
 
 	|arr re sarr1  sarr3 tempLinks tempNodes|
 	
-	arr := aStream subStrings: Character lf asString.
+	arr := aStream subStrings: (Array with: Character lf with: Character cr).
 	tempLinks := Dictionary new.
 	re := '(\w*)\s*{\s*(.*)\s*}.*\(\s*(\-*\d*\s*@\s*\-*\d*)\s*\).*\(\s*(\d*)\s*\)' asRegex.
 	tempNodes := OrderedCollection new.
