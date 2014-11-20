@@ -2,7 +2,7 @@ converting
 extractMessagesFromStream: aStream 
 
 	|anArray |
-	anArray := aStream subStrings: Character lf asString.
+	anArray := aStream subStrings: (Array with: Character lf with: Character cr).
 	self streamIn: aStream.
 	anArray do: [ :each| | sarr nd nm t | 
 					sarr := each  substrings.
