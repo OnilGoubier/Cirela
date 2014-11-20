@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfCirelaNetGenSim",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCirelaNetGenSim",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
