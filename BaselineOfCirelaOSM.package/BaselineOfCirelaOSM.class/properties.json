@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfCirelaOSM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCirelaOSM",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
