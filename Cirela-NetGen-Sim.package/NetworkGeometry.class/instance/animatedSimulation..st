@@ -13,9 +13,8 @@ animatedSimulation: aTimeNodeMessages
 		do: [ :nd | 
 			e := circle element translateTo: nd point.
 			view add: e.	
-			e @ RTDraggable.
 			dic at: nd put: e ].
-	self links do: [ :ln | view add: (line edgeFrom: (dic at: ln source) to: (dic at: ln target))	"self halt. " ].
+	self links do: [ :ln | view add: (line edgeFrom: (dic at: ln source) to: (dic at: ln target)) ].
 	view canvas
 		addMenu: 'Start'
 		callback: [ 
